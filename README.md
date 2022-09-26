@@ -1,6 +1,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aetonsi&theme=flat&margin-w=15&margin-h=15&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+<p align="center">𒀱𒀰𒀱𒀰𒀱</p>
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working @: [Livehelp.it](https://livehelp.it/)
@@ -27,3 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">𒀱𒀰𒀱𒀰𒀱</p>
