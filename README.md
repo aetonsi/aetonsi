@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">꧁ 𒀱 𒀰 𒀱 𒀰 𒀱 ꧂</p>
+<p align="center">꧁ 𒀰 𒀱 𒀰 ꧂</p>
