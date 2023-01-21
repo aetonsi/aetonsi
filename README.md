@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=aetonsi&theme=flat&margin-w=15&margin-h=15&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<p align="center">꧁ 𒀱 𒀰 𒀱 𒀰 𒀱 ꧂</p>
+<p align="center">꧁ 𒀰 𒀱 𒀰 ꧂</p>
 
 
 ### Hi there 👋
