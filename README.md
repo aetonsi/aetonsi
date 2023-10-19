@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=aetonsi&theme=flat&margin-w=15&margin-h=15&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy"></p>
+<p align="center"> <img src="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/?username=aetonsi&theme=flat&margin-w=15&margin-h=15&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy"></p>
 
 
 <p align="center">꧁ 𒀰 𒀱 𒀰 ꧂</p>
