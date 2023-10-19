@@ -99,6 +99,7 @@ wide, these giant spires dotted the ancient landscape [➡️source](https://www
 - https://github.com/devicons/devicon
 - https://github.com/anuraghazra/github-readme-stats
 - https://github.com/ryo-ma/github-profile-trophy
+- https://github.com/novatorem/novatorem
 - https://github.com/antonkomarev/github-profile-views-counter
 
 </p>
