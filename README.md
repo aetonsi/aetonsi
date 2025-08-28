@@ -13,16 +13,16 @@
 		</td>
 		<td align="center">
 			<a
-				href="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent">
+				href="https://github-readme-stats-blue-iota.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent">
 				<picture>
 					<source
-						srcset="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue-dark"
+						srcset="https://github-readme-stats-blue-iota.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue-dark"
 						media="(prefers-color-scheme: dark)" />
 					<source
-						srcset="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue"
+						srcset="https://github-readme-stats-blue-iota.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue"
 						media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 					<img
-						src="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent" />
+						src="https://github-readme-stats-blue-iota.vercel.app/api/top-langs/?username=aetonsi&text_bold=false&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent" />
 				</picture>
 			</a>
 		</td>
@@ -30,16 +30,16 @@
 	<tr>
 		<td align="center">
 			<a
-				href="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent">
+				href="https://github-readme-stats-blue-iota.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent">
 				<picture>
 					<source
-						srcset="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue-dark"
+						srcset="https://github-readme-stats-blue-iota.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue-dark"
 						media="(prefers-color-scheme: dark)" />
 					<source
-						srcset="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue"
+						srcset="https://github-readme-stats-blue-iota.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue"
 						media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 					<img
-						src="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent" />
+						src="https://github-readme-stats-blue-iota.vercel.app/api?username=aetonsi&text_bold=false&rank_icon=percentile&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent" />
 				</picture>
 			</a>
 		</td>
@@ -213,9 +213,9 @@ Theory)](https://www.youtube.com/watch?v=HNCgBuI2eJc)
 <h6 align="center">꧁ 𒀰 𒀱 𒀰 ꧂</h6>
 
 <picture>
-<source srcset="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api/wakatime/?username=@aetonsi&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue-dark" media="(prefers-color-scheme: dark)" />
-<source srcset="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api/wakatime/?username=@aetonsi&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-<img src="https://github-readme-stats-git-master-aetonsis-projects.vercel.app/api/wakatime/?username=@aetonsi&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent" />
+<source srcset="https://github-readme-stats-blue-iota.vercel.app/api/wakatime/?username=@aetonsi&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue-dark" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats-blue-iota.vercel.app/api/wakatime/?username=@aetonsi&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=vue" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<img src="https://github-readme-stats-blue-iota.vercel.app/api/wakatime/?username=@aetonsi&layout=compact&show_icons=true&include_all_commits=true&line_height=15&theme=transparent" />
 </picture>
 
 <h6 align="center">꧁ 𒀰 𒀱 𒀰 ꧂</h6>
